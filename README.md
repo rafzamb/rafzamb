@@ -6,5 +6,5 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rafzamb)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-zambrano/) [<img src = "https://shields.io/badge/Blog%20Posts-Proyectos-brightgreen">](https://rafael-zambrano-blog-ds.netlify.app/) [<img src = "https://shields.io/badge/R-Advanced-blue">]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-zambrano/) [<img src = "https://shields.io/badge/Blog%20Posts-Proyectos-brightgreen">](https://rafael-zambrano-blog-ds.netlify.app/) <img src = "https://www.r-project.org/logo/Rlogo.svg">
 
