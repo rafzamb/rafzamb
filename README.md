@@ -1,14 +1,11 @@
 <h1 align="center">Hola! 🤟 Soy Rafael Zambrano</h1>
 <h3 align="center">Actuary / Data Scientist</h3>
 
-En este espacio compartiré mis experiencias y proyectos de ciencia de datos
-
 📌 Pueden revisar mi [Blog Posts](https://rafael-zambrano-blog-ds.netlify.app/blog.html) donde comparto mis experiencias y proyectos de ciencia de datos 📖
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rafael-zambrano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-zambrano" height="30" width="40" /></a> <a href="https://rafael-zambrano-blog-ds.netlify.app/" target="blank"><img align="center" src="https://shields.io/badge/Blog%20Posts-Proyectos-brightgreen" alt="rafael-zambrano-blog" height="30" width="70" /></a>
+<a href="https://linkedin.com/in/rafael-zambrano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-zambrano" height="30" width="40" /></a> <a href="https://rafael-zambrano-blog-ds.netlify.app/" target="blank"><img align="center" src="https://shields.io/badge/Blog%20Posts-Proyectos-brightgreen" alt="rafael-zambrano-blog" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
