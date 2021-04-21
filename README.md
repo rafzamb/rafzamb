@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 🤟 Soy Rafa</h1>
+<h1 align="center">Hi! 🤟 I'm Rafa</h1>
 <h3 align="center">Actuary / Data Scientist</h3>
 
 📌 You can check my [Blog Posts](https://rafael-zambrano-blog-ds.netlify.app/blog.html) where I share my experiences and data science projects 📖
