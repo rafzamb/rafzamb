@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 🤟 Soy Rafa</h1>
 <h3 align="center">Actuary / Data Scientist</h3>
 
-📌 Pueden revisar mi [Blog Posts](https://rafael-zambrano-blog-ds.netlify.app/blog.html) donde comparto mis experiencias y proyectos de ciencia de datos 📖
+📌 You can check my [Blog Posts](https://rafael-zambrano-blog-ds.netlify.app/blog.html) where I share my experiences and data science projects 📖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
